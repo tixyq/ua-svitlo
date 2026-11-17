@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Svitlo?</string>
+    <string name="app_name_en" translatable="false">Svitlo?</string>
+    <string name="app_name_uk" translatable="false">Світло?</string>
+</resources>
