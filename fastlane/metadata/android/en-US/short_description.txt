@@ -1,0 +1,1 @@
+Lightweight app to view current power outage schedules in Ukraine.

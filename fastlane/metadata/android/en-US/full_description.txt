@@ -1,0 +1,1 @@
+A lightweight mobile application for viewing up-to-date power outage schedules across Ukraine. Supports legacy Android devices.
